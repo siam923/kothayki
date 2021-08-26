@@ -1,0 +1,11 @@
+django>=3
+pillow==7.1.2
+djangorestframework
+django-filter
+django-rest-auth==0.9.5
+django-allauth
+djangorestframework_simplejwt
+
+Classitc
+clavitic
+classitic
